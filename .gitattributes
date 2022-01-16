@@ -1,0 +1,10 @@
+content/Collections filter=lfs diff=lfs merge=lfs -text
+content/Mannequin filter=lfs diff=lfs merge=lfs -text
+content/RifleAnimsetPro filter=lfs diff=lfs merge=lfs -text
+content/Shooting filter=lfs diff=lfs merge=lfs -text
+content/ThirdPerson filter=lfs diff=lfs merge=lfs -text
+content/Developers filter=lfs diff=lfs merge=lfs -text
+content/FPS_Weapon_Bundle filter=lfs diff=lfs merge=lfs -text
+content/Geometry filter=lfs diff=lfs merge=lfs -text
+content/StarterContent filter=lfs diff=lfs merge=lfs -text
+content/ThirdPersonBP filter=lfs diff=lfs merge=lfs -text
